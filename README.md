@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-😄 Pronouns: She/Her<br>👩🏻‍💻 Education: 3rd Year CS Undergraduate Student.<br>🔭 I’m Currently Learning Web Development and DSA.<br>🤝 Looking to collaborate on Open-Source Contribution<br>📫 How to reach me: linkedin.com/in/nasreen-parween-758959235<br>⚡ Fun fact: I Like Photography!!
+😄 Pronouns: She/Her<br>👩🏻‍💻 Education: 3rd Year CS Undergraduate Student.<br>🔭 I’m Currently Learning Web Development and DSA.<br>🤝 Looking to collaborate on Open-Source Contribution<br>📫 How to reach me: https://linkedin.com/in/nasreen-parween-758959235<br>⚡ Fun fact: I Like Photography!!
 
 
 ## 🌐 Socials:
